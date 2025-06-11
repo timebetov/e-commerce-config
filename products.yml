@@ -1,8 +1,8 @@
 build:
-  version: "2.0"
+  version: "3.0"
 
 products:
-  message: "Welcome to E-Commerce Online Shop Products microservice configs REFRESHED and UPDATED"
+  message: "Welcome to E-Commerce Online Shop Products microservice configs"
   contactDetails:
     name: "Rakhat Sultanaliuly"
     email: "{cipher}c562d1a8e499114b5e6ea5e3966136e01812baab771b36fa44bca85b856d027c582a050d200fb3a62c8980393d34f369"
