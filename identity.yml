@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 
-products:
+identity:
   message: "Welcome to E-Commerce Online Shop Identity microservice configs"
   contactDetails:
     name: "Rakhat Sultanaliuly"

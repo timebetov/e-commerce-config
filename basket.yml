@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 
-products:
+basket:
   message: "Welcome to E-Commerce Online Shop Basket microservice configs"
   contactDetails:
     name: "Rakhat Sultanaliuly"
