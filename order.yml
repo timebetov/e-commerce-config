@@ -1,8 +1,8 @@
 build:
-  version: "3.0"
+  version: "4.0"
 
 order:
-  message: "Welcome to E-Commerce Online Shop Order microservice configs"
+  message: "Welcome to E-Commerce Online Shop Order microservice configs automated updates"
   contactDetails:
     name: "Rakhat Sultanaliuly"
     email: "{cipher}c562d1a8e499114b5e6ea5e3966136e01812baab771b36fa44bca85b856d027c582a050d200fb3a62c8980393d34f369"
